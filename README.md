@@ -1,2 +1,3 @@
 # Neovim-WSL
-Use Packer as Package Manager
+- Yank and Paste using system clipboard
+- Use Packer as Package Manager
